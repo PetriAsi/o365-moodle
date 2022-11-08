@@ -1,6 +1,9 @@
 # Microsoft 365 and Azure Active Directory Plugins for Moodle
 *includes support for* **Microsoft 365 Education**, **Microsoft 365 Enterprise**, **Azure Active Directory** *and* **Microsoft School Data Sync**
 
+## !! My fork contains devolopment branches for new features. Currently two branches to support renaming moodle users when syncing from azure ad. !!
+
+
 This repo is where development on all Microsoft 365 and Azure Active Directory plugins for Moodle takes place. After every release, updated versions of these plugins are pushed to the [Microsoft 365 plugin set](https://moodle.org/plugins/browse.php?list=set&id=72) available in the [Moodle plugins directory.](https://moodle.org/plugins)
 
 The following plugins are **actively maintained and required** for new installations and provide the core functionality of the integration:
